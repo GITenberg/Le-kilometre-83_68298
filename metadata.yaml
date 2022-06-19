@@ -1,0 +1,27 @@
+_repo: Le-kilometre-83_68298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daguerches, Henry
+    gutenberg_agent_id: '54704'
+    url: http://www.gutenberg.org/2009/agents/54704
+description: ''
+gutenberg_issued: '2022-06-12'
+identifiers:
+  gutenberg: '68298'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3410364s
+pgterms:marc905: 20211111010250daguerches
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Calmann Lévy,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le kilomètre 83
+url: http://www.gutenberg.org/ebooks/68298
